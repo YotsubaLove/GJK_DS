@@ -35,6 +35,6 @@ python oneto4.py
   When the distance becomes zero, a collision is detected, and the vehicle speed at that time is output.
 
 Future Plans
-  Extension to 3D space
-  Application to more complex polygonal and mesh data
-  Improved visualization tools
+  1,Extension to 3D space
+  2,Application to more complex polygonal and mesh data
+  3,Improved visualization tools
